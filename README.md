@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sakshi Pandey
 
-### 🎓 CSE Student | 🤖 Machine Learning Enthusiast | 🐍 Python Developer
+### 🎓 CSE Student | 🤖 Machine Learning Enthusiast | 📊 ML & Data Science Engineer
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Machine+Learning+Enthusiast;Deep+Learning+Explorer;Python+Developer;Building+Real-World+Projects;Always+Learning+%26+Building" />
