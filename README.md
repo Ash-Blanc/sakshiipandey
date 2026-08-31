@@ -3,48 +3,51 @@
 ### 🎓 CSE Student | 🤖 Machine Learning Enthusiast | 📊 ML & Data Science Engineer
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Machine+Learning+Enthusiast;Deep+Learning+Explorer;Python+Developer;Building+Real-World+Projects;Always+Learning+%26+Building" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Machine+Learning+Enthusiast;Data+Science+Explorer;Deep+Learning+Enthusiast;AI+%26+ML+Learner;Always+Learning+%26+Building" />
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-I'm a **Computer Science Engineering student** with a growing interest in **Machine Learning, Artificial Intelligence, and Deep Learning**.
+I'm a **Computer Science Engineering student** with a growing interest in **Machine Learning, Data Science, Artificial Intelligence, and Deep Learning**.
 
-I enjoy learning by building real-world projects and experimenting with different technologies. My current focus is on developing practical ML applications using **Python, PyTorch, Scikit-learn, and Streamlit**.
+I enjoy learning new technologies, solving problems, and building practical solutions while continuously improving my technical skills.
 
 * 🎓 Computer Science Engineering Student
 * 🤖 Interested in **Machine Learning & Artificial Intelligence**
-* 🧠 Exploring **Deep Learning & Neural Networks**
-* 🐍 Working primarily with **Python**
+* 📊 Exploring **Data Science & Data Analytics**
+* 🧠 Learning **Deep Learning & Neural Networks**
+* ☕ Java Programmer
 * 👁️ Interested in **Computer Vision**
-* 🚀 Building and deploying real-world ML projects
-* 🌱 Continuously learning new technologies
-* 💡 Passionate about solving problems through technology
+* 🌱 Continuously learning and exploring new technologies
+* 💡 Passionate about solving real-world problems through technology
 
 ---
 
-## 🔭 What I'm Currently Working On
+## 🔭 Currently Exploring
 
-* 🌱 **Plant Disease Detection using CNN**
-* ⚡ **Power Plant Fault Prediction using ANN**
-* 🤖 Machine Learning & Deep Learning projects
-* 🌐 Deploying ML models with **Streamlit**
-* 🧠 Exploring Artificial Intelligence and modern AI tools
-* 📚 Strengthening my ML & DL fundamentals
+* 🤖 Machine Learning
+* 📊 Data Science & Data Analytics
+* 🧠 Deep Learning
+* 👁️ Computer Vision
+* ⚡ Artificial Neural Networks
+* 🌐 Machine Learning Model Deployment
+* ✨ Artificial Intelligence & Generative AI
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### 👩‍💻 Programming Languages
+## ☕ Programming Language
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp" />
+  <img src="https://skillicons.dev/icons?i=java" />
 </p>
 
-### 🤖 Machine Learning & Deep Learning
+---
+
+## 🤖 Machine Learning & Data Science
 
 <p>
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
@@ -54,10 +57,12 @@ I enjoy learning by building real-world projects and experimenting with differen
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
 </p>
 
-### 🌐 Development & Deployment
+---
+
+## 🌐 Tools & Technologies
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
@@ -69,79 +74,34 @@ I enjoy learning by building real-world projects and experimenting with differen
 
 ---
 
-# 🚀 Featured Projects
-
-## 🌱 Plant Disease Detection
-
-A Deep Learning application that detects **potato plant diseases from leaf images** using a Convolutional Neural Network.
-
-### 🧠 Classes
-
-* 🍃 Early Blight
-* 🍂 Late Blight
-* 🌿 Healthy
-
-### 🛠️ Technologies
-
-`Python` `PyTorch` `CNN` `Computer Vision` `Streamlit`
-
-### 📊 Model
-
-* Architecture: **Custom CNN**
-* Input Image Size: **128 × 128**
-* Framework: **PyTorch**
-* Test Accuracy: **94.12%**
-* Healthy Class Recall: **87%**
-
-### 🔗 Links
-
-**Repository:**
-https://github.com/sakshiipandey/plant-disease-detection
-
-**Live Application:**
-https://sakshiipandey-plant-disease-detection-app-la27ic.streamlit.app/
-
----
-
-## ⚡ Power Plant Fault Prediction
-
-A Machine Learning project designed to predict **fault conditions in power plant monitoring data** using an Artificial Neural Network.
-
-The project includes data preprocessing, feature scaling, categorical encoding, model training, evaluation, and prediction.
-
-### 🛠️ Technologies
-
-`Python` `Pandas` `NumPy` `Scikit-learn` `PyTorch` `ANN`
-
-### 🔬 Workflow
+# 🌱 Currently Learning
 
 ```text
-Raw Data
-   ↓
-Data Preprocessing
-   ↓
-Feature Engineering
-   ↓
-Scaling & Encoding
-   ↓
-Train / Test Split
-   ↓
-Artificial Neural Network
-   ↓
-Model Evaluation
-   ↓
-Fault Prediction
+Machine Learning
+Data Science
+Deep Learning
+Artificial Neural Networks
+Computer Vision
+PyTorch
+Artificial Intelligence
+Generative AI
+Data Analytics
+Model Deployment
 ```
 
 ---
 
-## 🐦 Flappy Bird
+# 🎯 Goals
 
-A simple game project developed using Python while exploring programming fundamentals and game development.
-
-### 🛠️ Technologies
-
-`Python` `Pygame`
+* 🚀 Build strong foundations in Machine Learning & Data Science
+* 🧠 Deepen my knowledge of Deep Learning
+* 👁️ Explore Computer Vision
+* 🤖 Learn and experiment with Artificial Intelligence
+* 📊 Improve Data Analysis & Data Science skills
+* 💻 Strengthen programming and problem-solving abilities
+* 🌐 Learn effective ML model deployment
+* 💼 Prepare for opportunities in AI/ML & Data Science
+* 🌟 Continuously grow as a technology professional
 
 ---
 
@@ -170,42 +130,13 @@ A simple game project developed using Python while exploring programming fundame
 
 ---
 
-# 🌱 Currently Learning
+# 💡 My Learning Philosophy
 
 ```text
-Machine Learning
-Deep Learning
-Artificial Neural Networks
-Computer Vision
-PyTorch
-Artificial Intelligence
-Generative AI
-Model Deployment
-Data Science
+Learn → Build → Experiment → Improve → Repeat 🔁
 ```
 
----
-
-# 🎯 2026 Goals
-
-* 🚀 Build more real-world Machine Learning projects
-* 🧠 Strengthen Deep Learning fundamentals
-* 👁️ Explore Computer Vision
-* 🤖 Learn more about Artificial Intelligence
-* 🌐 Deploy production-ready ML applications
-* 📚 Improve Data Structures & Algorithms
-* 💼 Prepare for AI/ML opportunities
-* 🌟 Build a strong portfolio of projects
-
----
-
-# 💡 My Development Philosophy
-
-```text
-Learn → Build → Experiment → Fail → Improve → Repeat 🔁
-```
-
-I believe the best way to learn technology is by **building real projects and solving real problems**.
+I believe in **learning by doing**, experimenting with new ideas, and continuously improving my skills.
 
 ---
 
@@ -225,15 +156,10 @@ I believe the best way to learn technology is by **building real projects and so
 
 ---
 
-# ⭐ Support
-
-If you find my projects interesting, feel free to **explore my repositories and connect with me**!
-
 <p align="center">
   ⭐ Thanks for visiting my profile! ⭐
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sakshiipandey&label=Profile%20Views&color=blue&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=sakshiipandey&label=Profile%20Views&style=flat" />
 </p>
-
