@@ -1,165 +1,135 @@
-# 👋 Hi, I'm Sakshi Pandey
+<!-- ✦ sakshiipandey · profile README · nebula theme ✦ -->
 
-### 🎓 CSE Student | 🤖 Machine Learning Enthusiast | 📊 ML & Data Science Engineer
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:FF6EC7,100:00E5FF&height=230&section=header&text=Sakshi%20Pandey&fontSize=56&fontAlignY=30&desc=teaching%20machines%20to%20see%2C%20feel%20%26%20decide&descAlignY=52&descSize=17&animation=fadeIn" width="100%"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Machine+Learning+Enthusiast;Data+Science+Explorer;Deep+Learning+Enthusiast;AI+%26+ML+Learner;Always+Learning+%26+Building" />
+  <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&weight=700&size=20&duration=2800&pause=900&color=FF6EC7&center=true&vCenter=true&width=640&lines=CSE+undergrad+%C2%B7+Machine+Learning+%26+Data+Science;Training+CNNs%2C+DQN+agents+%26+Streamlit+apps;Learn+%E2%86%92+Build+%E2%86%92+Experiment+%E2%86%92+Improve+%E2%86%92+Repeat;Currently+convincing+a+DQN+not+to+crash+%F0%9F%8C%8C" alt="typing"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sakshiipandey&label=visitors&color=8A2BE2&style=flat-square" alt="visitors"/>
+  <img src="https://img.shields.io/badge/focus-machine_learning-00E5FF?style=flat-square&labelColor=0D1117" alt="focus"/>
+  <img src="https://img.shields.io/badge/mode-learning_by_building-FF6EC7?style=flat-square&labelColor=0D1117" alt="mode"/>
 </p>
 
 ---
 
-## 👩‍💻 About Me
+### `whoami`
 
-I'm a **Computer Science Engineering student** with a growing interest in **Machine Learning, Data Science, Artificial Intelligence, and Deep Learning**.
-
-I enjoy learning new technologies, solving problems, and building practical solutions while continuously improving my technical skills.
-
-* 🎓 Computer Science Engineering Student
-* 🤖 Interested in **Machine Learning & Artificial Intelligence**
-* 📊 Exploring **Data Science & Data Analytics**
-* 🧠 Learning **Deep Learning & Neural Networks**
-* ☕ Java Programmer
-* 👁️ Interested in **Computer Vision**
-* 🌱 Continuously learning and exploring new technologies
-* 💡 Passionate about solving real-world problems through technology
-
----
-
-## 🔭 Currently Exploring
-
-* 🤖 Machine Learning
-* 📊 Data Science & Data Analytics
-* 🧠 Deep Learning
-* 👁️ Computer Vision
-* ⚡ Artificial Neural Networks
-* 🌐 Machine Learning Model Deployment
-* ✨ Artificial Intelligence & Generative AI
+```json
+{
+  "name": "Sakshi Pandey",
+  "role": "CSE student · aspiring ML & Data Science engineer",
+  "mission": "turn lectures into models, and models into things people can use",
+  "training_on": ["deep learning", "neural networks", "computer vision", "NLP"],
+  "comfort_zone": ["Python", "Java", "PyTorch", "Streamlit"],
+  "ritual": "brew ☕ → code 💻 → train 🏋 → ship 🚀 → repeat 🔁",
+  "open_to": ["internships", "research collabs", "hackathons"]
+}
+```
 
 ---
 
-# 🛠️ Tech Stack
+## ✦ what I've been building
 
-## ☕ Programming Language
+### 🕹 the RL arcade — games that teach themselves
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java" />
+| project | the idea | stack |
+|---|---|---|
+| [**Snake-RL**](https://github.com/sakshiipandey/Snake-RL) | a Snake agent that learns through trial, error & reward | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) |
+| [**Flappy-Bird-R**](https://github.com/sakshiipandey/Flappy-Bird-R) | Deep Q-Learning + experience replay, one flap at a time | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![DQN](https://img.shields.io/badge/DQN-8A2BE2?style=flat-square&labelColor=0D1117) |
+
+### 🩺 ML with a heartbeat — models for real problems
+
+| project | the idea | stack |
+|---|---|---|
+| [**Heart-Diseases-predictor**](https://github.com/sakshiipandey/Heart-Diseases-predictor) | Gradient-Boosting risk screener on the UCI heart dataset | ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) |
+| [**credit-wise-loan**](https://github.com/sakshiipandey/credit-wise-loan) | KNN loan-approval predictor behind login + prediction pages | ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) |
+| [**emotion-app**](https://github.com/sakshiipandey/emotion-app) | EmotionSense AI — reads emotion from text with NLP | ![NLP](https://img.shields.io/badge/NLP-8A2BE2?style=flat-square&labelColor=0D1117) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) |
+| [**plant-disease-detection**](https://github.com/sakshiipandey/plant-disease-detection) | CNN that spots potato leaf disease before you can | ![CNN](https://img.shields.io/badge/CNN-00E5FF?style=flat-square&labelColor=0D1117) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
+| [**Strartup-Project-Success-Predictor**](https://github.com/sakshiipandey/Strartup-Project-Success-Predictor) | odds-checker for startup ideas, powered by data | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+
+### 🛠 beyond the notebook
+
+| project | the idea | stack |
+|---|---|---|
+| [**chatbot**](https://github.com/sakshiipandey/chatbot) | full-stack AI chatbot — React + FastAPI + local Llama 3.2, with conversation memory | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-0D1117?style=flat-square&labelColor=0D1117) |
+| [**Digital-Complaint-Register**](https://github.com/sakshiipandey/Digital-Complaint-Register) | students file campus complaints without the paper chase | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| [**agent-harness-demo**](https://github.com/sakshiipandey/agent-harness-demo) | repo in → demo video out: an agent boots a VM, films the app & edits the reel | ![Agents](https://img.shields.io/badge/AI_Agents-8A2BE2?style=flat-square&labelColor=0D1117) ![VideoDB](https://img.shields.io/badge/VideoDB-FF6EC7?style=flat-square&labelColor=0D1117) |
+
+---
+
+## ✦ the toolbox
+
+<p align="center">
+  <b>languages</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=python,java&theme=dark" />
 </p>
-
----
-
-## 🤖 Machine Learning & Data Science
-
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-</p>
-
-<p>
+<p align="center">
+  <b>ml &amp; data</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" />&nbsp;
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
 </p>
-
----
-
-## 🌐 Tools & Technologies
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-
-<p>
+<p align="center">
+  <b>web &amp; tools</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=react,fastapi,git,github,vscode&theme=dark" />&nbsp;
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ollama-0D1117?style=for-the-badge&logo=ollama&logoColor=white"/>
 </p>
 
 ---
 
-# 🌱 Currently Learning
+## ✦ currently in the lab 🧪
 
 ```text
-Machine Learning
-Data Science
-Deep Learning
-Artificial Neural Networks
-Computer Vision
-PyTorch
-Artificial Intelligence
-Generative AI
-Data Analytics
-Model Deployment
+Deep Learning      ░░░░░░░░░░  hacking on neural nets until they click
+Neural Networks    ▓▓▓░░░░░░░  forward pass ✓ · backprop ✓ · intuition ⟳
+Computer Vision    ▓▓▓▓░░░░░░  teaching CNNs to read potato leaves
+PyTorch            ▓▓▓▓▓░░░░░  tensors, autograd & midnight debug sessions
+Generative AI      ▓▓▓▓▓▓░░░░  riding the wave — transformers, diffusers
+Model Deployment   ▓▓▓▓▓▓▓░░░  Streamlit first, Docker next
 ```
 
 ---
 
-# 🎯 Goals
+## ✦ the roadmap
 
-* 🚀 Build strong foundations in Machine Learning & Data Science
-* 🧠 Deepen my knowledge of Deep Learning
-* 👁️ Explore Computer Vision
-* 🤖 Learn and experiment with Artificial Intelligence
-* 📊 Improve Data Analysis & Data Science skills
-* 💻 Strengthen programming and problem-solving abilities
-* 🌐 Learn effective ML model deployment
-* 💼 Prepare for opportunities in AI/ML & Data Science
-* 🌟 Continuously grow as a technology professional
+- 🚀 **build** — ship ML apps that solve real problems, not just notebooks
+- 🧠 **deepen** — neural networks, attention & everything transformer
+- 👁️ **see** — get serious about computer vision
+- 🌐 **deploy** — models that live in the wild, not on localhost
+- 💼 **land** — internships & collaborations in AI/ML & data science
+- 🌟 **grow** — stay curious, stay building
 
 ---
 
-# 📊 GitHub Stats
+## ✦ signal vs noise
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sakshiipandey&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshiipandey&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sakshiipandey&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF6EC7&icon_color=00E5FF&text_color=C9D1D9&include_all_commits=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshiipandey&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9" height="165"/>
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=sakshiipandey&hide_border=true&background=0D1117&fire=FF6EC7&ring=8A2BE2&currStreakLabel=00E5FF&sideLabels=C9D1D9&dates=C9D1D9" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sakshiipandey&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=7" />
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+## ✦ let's connect
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sakshiipandey&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sakshiipandey&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5" />
-</p>
-
----
-
-# 💡 My Learning Philosophy
-
-```text
-Learn → Build → Experiment → Improve → Repeat 🔁
-```
-
-I believe in **learning by doing**, experimenting with new ideas, and continuously improving my skills.
-
----
-
-# 🤝 Let's Connect
-
-<p align="center">
-
-<a href="https://github.com/sakshiipandey">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/sakshi-pandey-a6077735b/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+  <a href="https://github.com/sakshiipandey"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/sakshi-pandey-a6077735b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 </p>
 
 ---
 
-<p align="center">
-  ⭐ Thanks for visiting my profile! ⭐
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sakshiipandey&label=Profile%20Views&style=flat" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:FF6EC7,100:8A2BE2&height=120&section=footer&text=thanks%20for%20scrolling%20%C2%B7%20star%20something%20if%20it%20sparked%20joy%20%E2%9C%A6&fontSize=15&fontAlignY=65&animation=fadeIn" width="100%"/>
