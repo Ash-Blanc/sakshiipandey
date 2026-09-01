@@ -66,14 +66,21 @@
 
 ## ✦ what I've been building
 
-### 🕹 the RL arcade — games that teach themselves
+> the one I'd show you first: **[Flappy-Bird-R](https://github.com/sakshiipandey/Flappy-Bird-R)** — a Deep Q-Network that learned to fly, badly at first, then less badly. That's the whole job.
+
+<details open>
+<summary><b>🕹 the RL arcade</b> — games that teach themselves</summary>
+<br/>
 
 | project | the idea | stack |
 |---|---|---|
 | [**Snake-RL**](https://github.com/sakshiipandey/Snake-RL) | a Snake agent that learns through trial, error & reward | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) |
 | [**Flappy-Bird-R**](https://github.com/sakshiipandey/Flappy-Bird-R) | Deep Q-Learning + experience replay, one flap at a time | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![DQN](https://img.shields.io/badge/DQN-8A2BE2?style=flat-square&labelColor=0D1117) |
+</details>
 
-### 🩺 ML with a heartbeat — models for real problems
+<details>
+<summary><b>🩺 ML with a heartbeat</b> — models for real problems</summary>
+<br/>
 
 | project | the idea | stack |
 |---|---|---|
@@ -82,14 +89,18 @@
 | [**emotion-app**](https://github.com/sakshiipandey/emotion-app) | EmotionSense AI — reads emotion from text with NLP | ![NLP](https://img.shields.io/badge/NLP-8A2BE2?style=flat-square&labelColor=0D1117) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) |
 | [**plant-disease-detection**](https://github.com/sakshiipandey/plant-disease-detection) | CNN that spots potato leaf disease before you can | ![CNN](https://img.shields.io/badge/CNN-00E5FF?style=flat-square&labelColor=0D1117) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
 | [**Strartup-Project-Success-Predictor**](https://github.com/sakshiipandey/Strartup-Project-Success-Predictor) | odds-checker for startup ideas, powered by data | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+</details>
 
-### 🛠 beyond the notebook
+<details>
+<summary><b>🛠 beyond the notebook</b> — full-stack &amp; agents</summary>
+<br/>
 
 | project | the idea | stack |
 |---|---|---|
 | [**chatbot**](https://github.com/sakshiipandey/chatbot) | full-stack AI chatbot — React + FastAPI + local Llama 3.2, with conversation memory | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-0D1117?style=flat-square&labelColor=0D1117) |
 | [**Digital-Complaint-Register**](https://github.com/sakshiipandey/Digital-Complaint-Register) | students file campus complaints without the paper chase | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
 | [**agent-harness-demo**](https://github.com/sakshiipandey/agent-harness-demo) | repo in → demo video out: an agent boots a VM, films the app & edits the reel | ![Agents](https://img.shields.io/badge/AI_Agents-8A2BE2?style=flat-square&labelColor=0D1117) ![VideoDB](https://img.shields.io/badge/VideoDB-FF6EC7?style=flat-square&labelColor=0D1117) |
+</details>
 
 ---
 
@@ -143,12 +154,14 @@
 
 ## ✦ the roadmap
 
-- 🚀 **build** — ship ML apps that solve real problems, not just notebooks
-- 🧠 **deepen** — neural networks, attention & everything transformer
-- 👁️ **see** — get serious about computer vision
-- 🌐 **deploy** — models that live in the wild, not on localhost
-- 💼 **land** — internships & collaborations in AI/ML & data science
-- 🌟 **grow** — stay curious, stay building
+| | goal | status |
+|---|---|---|
+| 🚀 | **build** — ship ML apps that solve real problems, not just notebooks | `in progress` |
+| 🧠 | **deepen** — neural networks, attention & everything transformer | `in progress` |
+| 👁️ | **see** — get serious about computer vision | `queued` |
+| 🌐 | **deploy** — models that live in the wild, not on localhost | `queued` |
+| 💼 | **land** — internships & collaborations in AI/ML & data science | `the boss fight` |
+| 🌟 | **grow** — stay curious, stay building | `always on` |
 
 ---
 
@@ -158,6 +171,10 @@
   <a href="https://github.com/sakshiipandey"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   &nbsp;
   <a href="https://www.linkedin.com/in/sakshi-pandey-a6077735b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="random dev quote"/>
 </p>
 
 ---
